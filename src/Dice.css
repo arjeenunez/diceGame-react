@@ -1,0 +1,50 @@
+.Dice {
+    background-color: blue;
+    text-align: center;
+    height: 115px;
+    width: 115px;
+    margin: 0;
+    border-radius: 0.45rem;
+    /* position: relative;
+    animation-name: jiggle;
+    animation-duration: 2s; */
+    font-size: 10rem;
+    line-height: 100px;
+    color: white;
+}
+
+/* @keyframes jiggle {
+    0% {
+        left: 0px;
+    }
+    10% {
+        left: 10px;
+    }
+    20% {
+        left: 0px;
+    }
+    30% {
+        left: 10px;
+    }
+    40% {
+        left: 0px;
+    }
+    50% {
+        left: 10px;
+    }
+    60% {
+        left: 0px;
+    }
+    70% {
+        left: 10px;
+    }
+    80% {
+        left: 0px;
+    }
+    90% {
+        left: 10px;
+    }
+    100% {
+        left: 0px;
+    }
+} */
